@@ -1,4 +1,4 @@
-## Olá, eu sou João Ranulfo! 👋
+## Olá seja muito bem vindo(a), sou João Ranulfo! 👋
 
 <!--
 **JoaoRanulfoDatascience/joaoRanulfoDatascience** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
