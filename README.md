@@ -1,13 +1,23 @@
-# 👋 Olá! Eu sou o João Ranulfo!
+![FOTO CAPA LINKEDIN](https://github.com/user-attachments/assets/b0df9e78-2682-4258-b11b-f3d327390a77)
 
- Atualmente estou estudando **Ciência de Dados** e focado em construir meu portfólio.
+# 👋 Olá, sou João Ranulfo!
+
+ Atualmente estudo **Ciência de Dados** e tenho focado em construir meu portfólio.
 
 ---
 
 ## Sobre mim:
 
 - 📚 Cursando **Ciência de Dados** (EAD)
-- 🎓 Participando de bootcamps e cursos paralelos como o **Santander Bootcamp | DIO** e cursos da **Udemy**.
+- 🎓 Participando de bootcamps e cursos paralelos:
+  
+📌**Santander Bootcamp | DIO**;
+
+📌**Ciência de Dados- Prof. Fernando Amaral |Udemy** ;
+
+📌**Curso de SQL |Udemy** ;
+
+📌**Curso de inglês| IFRS**;
 - 🧑‍💻 No momento aprendendo **Python**, **SQL**, **Análise de Dados** e **Git/GitHub**.
 - 💡 Curiosisimo por **Machine Learning**, **Big Data** e **Projetos de Análise Exploratória de Dados (EDA)**.
 
@@ -15,8 +25,7 @@
 
 ## 🛠️ Tecnologias e Ferramentas que estou usando/estudando:
 
-- **Python** 🐍
-- **Pandas**, **Matplotlib**, **Seaborn**
+- **Python** 🐍 **Pandas**, **Matplotlib**, **Seaborn**
 - **Jupyter Notebook**
 - **SQL** 
 - **Git e GitHub**
@@ -35,7 +44,7 @@
 ## 📫 Como me encontrar:
 
 - ✉️ Email: joaouninove@hotmail.com
-- 💼 LinkedIn: 
+- 💼 LinkedIn: https://www.linkedin.com/in/jo%C3%A3o-ranulfo-eloia-18713ab7
 - 📱 Em breve: Portfólio online 
 
 ---
