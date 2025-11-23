@@ -1,70 +1,51 @@
 ![FOTO CAPA LINKEDIN](https://github.com/user-attachments/assets/b0df9e78-2682-4258-b11b-f3d327390a77)
 
-# 👋 Olá, sou João Ranulfo!
-
- Atualmente estudo **Ciência de Dados** e tenho focado em construir meu portfólio.
-
----
-
-## Sobre mim:
-
-- 📚 Cursando **Graduação em Ciência de Dados**
-- 🎓 Participando de bootcamps e cursos em paralelo a Graduação:
-  
-📌**Bootcamp -Suzano Python Developer | DIO**;
-
-📌**Bootcamp -CAIXA- Inteligência Artificial | DIO**;
-
-📌**Ciência de Dados- Prof. Fernando Amaral |Udemy** ;
-
-📌**Curso de SQL |Udemy** ;
-
-📌**Curso de inglês| IFRS**;
-
-- 🧑‍💻 No momento aprendendo **Python**, **SQL**, **Análise de Dados** e **Git/GitHub**.
-- 💡 Grande interesse em **Machine Learning**, **Big Data** e **Projetos de Análise Exploratória de Dados (EDA)**.
+# 👋 Olá, sou João Ranulfo, seja muito Bem vindo(a)!
+Atualmente estudo **Ciência de Dados** e estou construindo meu portfólio focado em resolução de problemas reais.
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas que estou usando/estudando:
+###  Sobre mim
 
-- **Python** 🐍 **Pandas**, **Matplotlib**, **Seaborn**
-- **Jupyter Notebook**
-- **SQL** 
-- **Git e GitHub**
+* 🎓 **Graduação:** Cursando Tecnologia em Ciência de Dados.
+* 📚 **Estudos Atuais:** Focado em Python, SQL, ETL e Análise Exploratória de Dados (EDA).
+* 🧠 **Interesses:** Entusiasta de Machine Learning, Big Data e Automação.
+* 💼 **Background:** Trago experiência em logística e comercial, o que me dá uma visão de negócios orientada a dados, mais abrangente.
 
----
-
-## 📈 Projetos em andamento:
-
-- 📊 Análise Exploratória de Dados - **Netflix Dataset**
-
-
-
-- 🔎 Em breve: **Criação de agente de IA, Agente de Coleta e Análise Esportiva (Python): Desenvolvimento de script de automação para filtrar jogos diários baseado em critérios estatísticos rigorosos. O sistema consome dados, aplica regras de negócio e gera alertas de oportunidades. Techs: Python, Bibliotecas de Web Scraping/API, Pandas.
-
-  
-- 💼 Outros projetos de bootcamp em desenvolvimento...
+**Cursos e Bootcamps:**
+* 🐍 Bootcamp Python Developer | DIO
+* 🤖 Bootcamp Inteligência Artificial | CAIXA | DIO
+* 📊 Ciência de Dados & SQL | Udemy
 
 ---
 
-## 📫 Como me encontrar:
+### 🛠 Tecnologias e Ferramentas
 
-- ✉️ Email: joaouninove@hotmail.com
-- 💼 LinkedIn: https://www.linkedin.com/in/jo%C3%A3o-ranulfo-eloia-18713ab7
-- 📱 Em breve: Portfólio online 
-
----
-
-## ✨ Objetivos de curto prazo:
-
-- Finalizar projetos de análise de dados 📈
-- Melhorar minha presença no GitHub 💻
-- Me candidatar para oportunidades de estágio ou vaga júnior em **Data Science**
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![SQL](https://img.shields.io/badge/sql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
-Obrigado por visitar meu perfil! 
+### 📈 Projetos em Destaque
 
-💡Vamos explorar os dados !?🎲🎲📈
+* 🎬 **Análise Exploratória de Dados - Netflix Dataset**
+    * Análise visual e estatística para identificar padrões de consumo.
 
+* ⚽ **Agente de Coleta e Análise Esportiva (Python)** *(Em Desenvolvimento)*
+    * Automação para filtrar jogos diários baseado em critérios estatísticos rigorosos. O sistema consome dados, aplica regras de negócio e gera alertas de oportunidades.
+    * *Techs:* Python, Web Scraping, Pandas.
+
+---
+
+### Como me encontrar
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-ranulfo-eloia-18713ab7)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joaouninove@hotmail.com)
+
+---
+*Vamos explorar os dados!*
