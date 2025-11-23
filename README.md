@@ -8,7 +8,7 @@
 
 ## Sobre mim:
 
-- 📚 Cursando ** Graduação em Ciência de Dados**
+- 📚 Cursando **Graduação em Ciência de Dados**
 - 🎓 Participando de bootcamps e cursos em paralelo a Graduação:
   
 📌**Bootcamp -Suzano Python Developer | DIO**;
@@ -39,6 +39,9 @@
 ## 📈 Projetos em andamento:
 
 - 📊 Análise Exploratória de Dados - **Netflix Dataset**
+
+
+
 - 🔎 Em breve: **Criação de agente de IA, Agente de Coleta e Análise Esportiva (Python): Desenvolvimento de script de automação para filtrar jogos diários baseado em critérios estatísticos rigorosos. O sistema consome dados, aplica regras de negócio e gera alertas de oportunidades. Techs: Python, Bibliotecas de Web Scraping/API, Pandas.
 
   
