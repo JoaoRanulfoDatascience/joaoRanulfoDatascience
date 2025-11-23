@@ -13,7 +13,7 @@
   
 📌**Bootcamp -Suzano Python Developer | DIO**;
 
-📌**Bootcamp -CAIXA- Intelegência Artificial | DIO**;
+📌**Bootcamp -CAIXA- Inteligência Artificial | DIO**;
 
 📌**Ciência de Dados- Prof. Fernando Amaral |Udemy** ;
 
@@ -22,7 +22,7 @@
 📌**Curso de inglês| IFRS**;
 
 - 🧑‍💻 No momento aprendendo **Python**, **SQL**, **Análise de Dados** e **Git/GitHub**.
-- 💡 Curiosisimo por **Machine Learning**, **Big Data** e **Projetos de Análise Exploratória de Dados (EDA)**.
+- 💡 Grande interesse em **Machine Learning**, **Big Data** e **Projetos de Análise Exploratória de Dados (EDA)**.
 
 ---
 
@@ -32,7 +32,6 @@
 - **Jupyter Notebook**
 - **SQL** 
 - **Git e GitHub**
-- Em breve: **Power BI**, **Databricks**, **Spark**
 
 ---
 
