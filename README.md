@@ -7,9 +7,9 @@ Atualmente estudo **Ciência de Dados** e estou construindo meu portfólio focad
 
 ###  Sobre mim
 
-* 🎓 **Graduação:** Cursando Tecnologia em Ciência de Dados.
-* 📚 **Estudos Atuais:** Focado em Python, SQL, ETL e Análise Exploratória de Dados (EDA).
-* 🧠 **Interesses:** Entusiasta de Machine Learning, Big Data e Automação.
+* 🎓 **Graduação:** Formando em Tecnologia em Ciência de Dados e Cursando Bacharelado em Ciência da Computação
+* 📚 **Estudos Atuais:** Focado em Python, SQL, ETL e Análise Exploratória de Dados (EDA), machine learning. 
+* 🧠 **Interesses:** Entusiasta de Machine Learning, Big Data e Automação, Projetos em Java.
 * 💼 **Background:** Trago experiência em logística e comercial, o que me dá uma visão de negócios orientada a dados, mais abrangente.
 
 **Cursos e Bootcamps:**
