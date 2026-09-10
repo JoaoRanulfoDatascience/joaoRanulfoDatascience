@@ -2,7 +2,7 @@
 
 
 # 👋 Olá, sou João Ranulfo, seja muito Bem vindo(a)!
-Atualmente estudo **Ciência de Dados** e estou construindo meu portfólio focado em resolução de problemas reais.
+Atualmente estudo **Ciência da Computação** e formando em **Ciência de Dados** contruindo portfólio focado em resolução de problemas reais.
 
 ---
 
