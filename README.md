@@ -1,4 +1,5 @@
-![FOTO CAPA LINKEDIN](https://github.com/user-attachments/assets/b0df9e78-2682-4258-b11b-f3d327390a77)
+<img width="1024" height="255" alt="turing-linkedin" src="https://github.com/user-attachments/assets/7792a91a-2135-4270-b910-aaaee65f3c3a" />
+
 
 # 👋 Olá, sou João Ranulfo, seja muito Bem vindo(a)!
 Atualmente estudo **Ciência de Dados** e estou construindo meu portfólio focado em resolução de problemas reais.
